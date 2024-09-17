@@ -98,7 +98,6 @@ Before you start, make sure you have a fresh version of [Node.js](https://nodejs
 Find a bug or want to request a new feature? Please let me know by submitting an issue.
 
 ## Licensing
-Copyright 2022 Jinnan Zhang
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
